@@ -1,8 +1,34 @@
 ## Olá! Eu sou o Lucas👋
 
 Analista de Teste/QA, construindo conhecimentos e experiência na área de Quality Assurance, a mais de 1 ano colaborando para garantir a qualidade de sistemas e aplicações. Possuo certificação CTFL e CTFL-AT e conhecimento em metodologias de teste, como teste de aceitação, teste de sistema e teste de regressão. Além disso, sou habilidoso em realizar testes de API. Sou capaz de planejar e gerenciar testes, documentar resultados de testes e utilizar ferramentas de teste para automação.
-##
 
+Experiência com:
+- Azure DevOps
+- Elaboração de cenários de teste
+- Testes funcionais
+- Criação de massa de testes
+- Testes manuais
+- Pacote Office 
+- Scrum e Kanban
+
+Conhecimento em:
+- Git e Github
+- Selenium Webdriver e IDE
+- Postman
+- Java
+- Junit
+- Maven
+- Eclipse IDE
+- Lógica de programação e estrutura de dados
+
+ Noções de:
+- Cyspress
+- Javascript 
+- Newman
+- CI/CD
+- Docker
+- Jenkins
+  
 <div align="center">
   <a href="https://github.com/Lucas5497">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lucas5497&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
