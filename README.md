@@ -3,7 +3,7 @@
 **Analista de QA | QA Pleno / Analista de Testes Automatizados**
 
 📍 Franco da Rocha, SP — atuando remoto
-🎯 Em busca de novas oportunidades como **Engenheiro de QA Automation / Analista de QA Sênior**
+🎯 Em busca de novas oportunidades como **Engenheiro de QA Automation / Analista de QA Pleno ou Sênior**
 
 ---
 
