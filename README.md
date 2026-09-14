@@ -1,59 +1,64 @@
-## Olá! Eu sou o Lucas👋
+# Olá, sou Lucas Anselmo Luiz Lopes 👋
 
-Analista de Teste/QA, construindo conhecimentos e experiência na área de Quality Assurance, a mais de 1 ano colaborando para garantir a qualidade de sistemas e aplicações. Possuo certificação CTFL e CTFL-AT e conhecimento em metodologias de teste, como teste de aceitação, teste de sistema e teste de regressão. Além disso, sou habilidoso em realizar testes de API. Sou capaz de planejar e gerenciar testes, documentar resultados de testes e utilizar ferramentas de teste para automação.
+**Analista de QA | QA Pleno / Analista de Testes Automatizados**
 
-Experiência com:
-- Azure DevOps
-- Elaboração de cenários de teste
-- Testes funcionais
-- Criação de massa de testes
-- Testes manuais
-- Pacote Office 
-- Scrum e Kanban
+📍 Franco da Rocha, SP — atuando remoto
+🎯 Em busca de novas oportunidades como **Engenheiro de QA Automation / Analista de QA Sênior**
 
-Conhecimento em:
-- Git e Github
-- Selenium Webdriver e IDE
-- Postman
-- Java
-- Junit
-- Maven
-- Eclipse IDE
-- Lógica de programação e estrutura de dados
+---
 
- Noções de:
-- Cyspress
-- Javascript 
-- Newman
-- CI/CD
-- Docker
-- Jenkins
-  
-<div align="center">
-  <a href="https://github.com/Lucas5497">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lucas5497&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas5497&layout=compact&langs_count=7&theme=monokai"/>
-</div>
-<div style="display: inline_block"><br>
- 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="30"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="30"/>
-  <img align="center" alt="Lucas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Lucas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Lucas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Lucas-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="30"/>
-   
+## Sobre mim
 
-</div>
-  
-  ##
- 
-<div> 
-  
-  <a href="https://discord.com/channels/@Lucas%20Lopes#2814" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:lucasanselmoluizlopes@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href= "https://www.linkedin.com/in/lucas-lopes-analista-de-testes-qa" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://api.whatsapp.com/send?phone=5511981511411&text=Ooi" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
- 
-</div>
+Sou profissional de QA com mais de 4 anos de experiência em automação de testes web, API, ambientes de e-commerce e setor financeiro. Especialista no desenvolvimento de frameworks de automação escaláveis com Python, Robot Framework, Selenium e Cypress, com atuação consistente em pipelines de CI/CD e metodologias ágeis.
+
+Sou tecnólogo em Análise e Desenvolvimento de Sistemas pela FACINT, e mantenho minha formação atualizada com certificações reconhecidas no mercado — incluindo testes com IA generativa.
+
+## 🛠️ Stack técnica
+
+| Área | Ferramentas |
+|---|---|
+| **Automação** | Python · Robot Framework · Selenium WebDriver · Cypress |
+| **Linguagens** | Python · Java · JavaScript |
+| **Testes de API** | Postman · RestAssured |
+| **CI/CD & DevOps** | Azure DevOps · Jenkins · GitHub Actions · Git |
+| **Banco de Dados** | Oracle SQL · SQL Server |
+| **Gestão de Testes** | Jira · Azure Test Plans · Allure Report |
+| **Metodologias** | Scrum · Kanban |
+
+## 📈 Resultados que já entreguei
+
+- 🔻 Redução do ciclo de regressão de **4 dias para 1 hora** (+40 cenários automatizados)
+- 📊 Aumento de **75%** na cobertura de testes em sistema crítico de e-commerce
+- 🤖 PoC de agentes de IA para modelagem de casos de teste, reduzindo em **90%** o tempo de criação
+- 🐛 Redução de incidentes em produção via testes exploratórios e de usabilidade
+
+## 🎓 Certificações
+
+- CTFL (Foundation Level) — ISTQB, 2022
+- CTFL-AT (Agile Tester) — ISTQB, 2022
+- CPRE-FL — IREB, 2023
+- Microsoft Azure Fundamentals — KA Solution, 2023
+- CT-GenAI (Testes com IA Generativa) — 2025
+
+## 💼 Experiência
+
+**Analista de QA PL** — Vibra Digital *(remoto)*
+mar/2024 – nov/2025
+Desenvolvimento de frameworks de automação, integração com Azure DevOps Pipelines, relatórios com Allure Report e PoC de agentes de IA para modelagem de testes.
+
+**Analista de Testes II** — WarmUP Consulting *(projeto Rabobank, remoto)*
+jun/2023 – mar/2024
+Testes funcionais e de regressão em aplicações financeiras, gestão de casos via Azure Test Plans, validações em banco de dados SQL.
+
+**Analista de Testes I** — WarmUP Consulting *(projeto Rabobank, remoto)*
+jun/2022 – mai/2023
+Validação de integrações globais no sistema Flexcube (Oracle), testes de caixa branca e caixa preta com foco em segurança e performance.
+
+## 🔗 Projetos em destaque
+
+> _Em breve: repositórios de automação web (Selenium/Cypress), Robot Framework e testes de API._
+
+## 📫 Contato
+
+- LinkedIn: [linkedin.com/in/lucas-lopes-analista-de-testes-qa](https://linkedin.com/in/lucas-lopes-analista-de-testes-qa)
+- E-mail: lucasanselmoluizlopes@gmail.com
